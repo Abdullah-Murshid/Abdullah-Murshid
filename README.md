@@ -14,7 +14,7 @@
 ### 🛠️ Tech Stack
 **Languages:** C#, JavaScript, HTML, CSS, SQL  
 **Frameworks:** ASP.NET MVC / Core, Entity Framework  
-**Database:** SQL Server  / MySQL
+**Database:** SQL Server  / MySQL 
 **Tools:** Visual Studio, Git, GitHub, VS Code   
 
 ### 📫 Connect with Me
