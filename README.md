@@ -21,7 +21,7 @@
 ### 🧩 Featured Projects  
 <div align="center">
 
-[![MyImages](https://github-readme-stats.vercel.app/api/pin/?username=Abdullah-Murshid&repo=MyImages&theme=react&border_color=0078D7&border_radius=10)](https://github.com/Abdullah-Murshid/MyImages)
+
 
 </div>
 
