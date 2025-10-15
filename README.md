@@ -1,45 +1,51 @@
 <div align="center">
-
-## 👋 Hey there! I'm **Abdullah Murshid**
-### 💻 Full Stack .NET Developer  
-#### ASP.NET MVC / Core | C# | SQL | JavaScript
-
-🚀 Passionate about building clean, scalable, and real-world web applications with modern architecture and design.
-
+  <h1>👋 Hey, I'm <strong>Abdullah Murshid</strong></h1>
+  <h3>💻 Full-Stack .NET Developer</h3>
+  <h4>ASP.NET MVC | ASP.NET Core | C# | SQL Server | JavaScript</h4>
+  <p>🚀 I build <strong>scalable, real-world web applications</strong> with clean architecture, optimized databases, and modern UI design.</p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0078D7&height=3&section=header"/>
 </div>
-
----
 
 ### 🧠 About Me  
-- 💼 Working with **ASP.NET MVC/Core**, **Entity Framework**, and **SQL Server**  
-- 🧩 Experienced in **real-world project development**  
-- 🌱 Currently exploring **.NET Core APIs**, **cloud deployment**, and **front-end enhancements**  
-- 🎯 Goal: Build scalable digital solutions that look great and perform even better  
+- 💼 Skilled in **ASP.NET MVC/Core**, **Entity Framework**, and **SQL Server**  
+- 🧩 Experienced in **real-world project development** and **database-driven web systems**  
+- 🌱 Exploring **.NET Core APIs**, **cloud deployment**, and **frontend enhancements**  
+- 🎯 Goal: Deliver **digital solutions** that look great and perform even better  
 
 ---
 
-### 🧩 Featured Projects  
-<div align="center">
+### 🚀 Featured Projects  
 
-
-
-</div>
+#### 🎞 **MyImages — Online Photo Printing System**
+A full-featured web app for ordering digital photo prints.  
+Includes **secure credit card encryption**, **grouped photo orders**, and **admin management** for pricing and fulfillment.  
+🔹 *Built with:* ASP.NET MVC, C#, SQL Server  
 
 ---
 
-### ⚙️ Tech Arsenal  
+#### 🎟 **Event Management System**
+A platform for creating and managing events with **role-based access**, **participant registration**, and **real-time tracking**.  
+Designed with a strong focus on **data relationships** and **user-friendly UI**.  
+🔹 *Built with:* ASP.NET MVC, Entity Framework, SQL Server  
+
+---
+
+#### 🏢 **Sprint Elevators — Company Website**
+A responsive company website built with **modern animations (AOS.js)**, **SEO optimization**, and a clean, minimal design.  
+🔹 *Built with:* HTML, CSS, JavaScript, Bootstrap  
+
+---
+
+#### 🔐 **User Management System**
+A secure authentication system that supports **CRUD operations**, **session handling**, and **password hashing**.  
+Perfect for integrating into larger enterprise apps.  
+🔹 *Built with:* ASP.NET MVC, C#, SQL Server  
+
+---
+
+### ⚙️ Tech Stack  
 <div align="center">
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![ASP.NET](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
+  <img src="https://skillicons.dev/icons?i=dotnet,js,html,css,bootstrap,visualstudio,git,github&theme=dark" />
 </div>
 
 ---
@@ -47,28 +53,26 @@
 ### 📊 GitHub Stats  
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Murshid&show_icons=true&theme=react&border_color=0078D7&hide_border=false" height="160px"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abdullah-Murshid&theme=react&border=0078D7&hide_border=false" height="160px"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Murshid&show_icons=true&theme=tokyonight&hide_border=false&border_color=1F6FEB" height="160px"/>  
+
 
 </div>
 
 ---
 
 ### 🌐 Connect With Me  
-<div align="center">
+<div align="left">
 
 📧 **abdullahmurshid391@gmail.com**  
 💼 [LinkedIn](https://www.linkedin.com/in/abdullah-murshid-am01/)  
-🌍 [GitHub Profile](https://github.com/Abdullah-Murshid)
+🌍 [GitHub](https://github.com/Abdullah-Murshid)
 
 </div>
 
 ---
 
-<div align="center">
+<div align="left">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-Murshid&style=flat-square&color=0078D7)
-![Followers](https://img.shields.io/github/followers/Abdullah-Murshid?label=Followers&style=social)
-![Stars](https://img.shields.io/github/stars/Abdullah-Murshid?label=Stars&style=social)
+![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-Murshid&style=flat-square&color=1F6FEB)
 
 </div>
