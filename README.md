@@ -50,13 +50,7 @@ Perfect for integrating into larger enterprise apps.
 
 ---
 
-### 📊 GitHub Stats  
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Murshid&show_icons=true&theme=tokyonight&hide_border=false&border_color=1F6FEB" height="160px"/>  
-
-
-</div>
 
 ---
 
