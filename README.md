@@ -8,7 +8,7 @@
   <a href="https://www.linkedin.com/in/abdullahmurshid" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your@email.com">
+  <a href="mailto:abdullahmurshid931@gmail.com@email.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -53,15 +53,6 @@
 - 📅 Session scheduling & real-time updates
 - 📊 Analytics & reporting dashboard
 - ⚙️ Stack: MongoDB | Express.js | React.js | Node.js | JWT | REST APIs
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Murshid&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Murshid&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-</p>
 
 ---
 
