@@ -1,72 +1,78 @@
-<div align="center">
-  <h1>👋 Hey, I'm <strong>Abdullah Murshid</strong></h1>
-  <h3>💻 Full-Stack .NET Developer</h3>
-  <h4>ASP.NET MVC | ASP.NET Core | C# | SQL Server | JavaScript</h4>
-  <p>🚀 I build <strong>scalable, real-world web applications</strong> with clean architecture, optimized databases, and modern UI design.</p>
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0078D7&height=3&section=header"/>
-</div>
+<h1 align="center">Hi, I'm Abdullah Murshid 👋</h1>
 
-### 🧠 About Me  
-- 💼 Skilled in **ASP.NET MVC/Core**, **Entity Framework**, and **SQL Server**  
-- 🧩 Experienced in **real-world project development** and **database-driven web systems**  
-- 🌱 Exploring **.NET Core APIs**, **cloud deployment**, and **frontend enhancements**  
-- 🎯 Goal: Deliver **digital solutions** that look great and perform even better  
+<h3 align="center">MERN Stack Developer | Building Real-World Web Apps | Karachi, Pakistan</h3>
 
----
+<br/>
 
-### 🚀 Featured Projects  
-
-#### 🎞 **MyImages — Online Photo Printing System**
-A full-featured web app for ordering digital photo prints.  
-Includes **secure credit card encryption**, **grouped photo orders**, and **admin management** for pricing and fulfillment.  
-🔹 *Built with:* ASP.NET MVC, C#, SQL Server  
+<p align="center">
+  <a href="https://www.linkedin.com/in/abdullahmurshid" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your@email.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-#### 🎟 **Event Management System**
-A platform for creating and managing events with **role-based access**, **participant registration**, and **real-time tracking**.  
-Designed with a strong focus on **data relationships** and **user-friendly UI**.  
-🔹 *Built with:* ASP.NET MVC, Entity Framework, SQL Server  
+### 👨‍💻 About Me
+
+- 🎓 Diploma student at **Aptech Learning Pakistan**
+- 💻 Passionate about building clean, scalable full-stack web applications
+- 🌱 Currently deepening my skills in **React.js** and **Node.js**
+- 🚀 Built **EventSphere** — a full-stack Expo & Event Management System
+- 📍 Based in **Karachi, Pakistan**
+- 📫 Open to **junior developer roles & internships**
 
 ---
 
-#### 🏢 **Sprint Elevators — Company Website**
-A responsive company website built with **modern animations (AOS.js)**, **SEO optimization**, and a clean, minimal design.  
-🔹 *Built with:* HTML, CSS, JavaScript, Bootstrap  
+### 🛠️ Tech Stack
+
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+</p>
 
 ---
 
-#### 🔐 **User Management System**
-A secure authentication system that supports **CRUD operations**, **session handling**, and **password hashing**.  
-Perfect for integrating into larger enterprise apps.  
-🔹 *Built with:* ASP.NET MVC, C#, SQL Server  
+### 🚀 Featured Project
+
+#### 🗓️ [EventSphere — Expo & Event Management System](#)
+
+> A full-stack MERN application for managing large-scale expos and trade shows.
+
+- 🔐 Role-based authentication (Admin, Exhibitor, Attendee)
+- 🏢 Booth selection & floor plan management
+- 📅 Session scheduling & real-time updates
+- 📊 Analytics & reporting dashboard
+- ⚙️ Stack: MongoDB | Express.js | React.js | Node.js | JWT | REST APIs
 
 ---
 
-### ⚙️ Tech Stack  
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=dotnet,js,html,css,bootstrap,visualstudio,git,github&theme=dark" />
-</div>
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Abdullah-Murshid&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdullah-Murshid&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</p>
 
 ---
 
+### 🔥 Streak
 
-
----
-
-### 🌐 Connect With Me  
-<div align="left">
-
-📧 **abdullahmurshid391@gmail.com**  
-💼 [LinkedIn](https://www.linkedin.com/in/abdullah-murshid-am01/)  
-🌍 [GitHub](https://github.com/Abdullah-Murshid)
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Abdullah-Murshid&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
-<div align="left">
-
-![Profile Views](https://komarev.com/ghpvc/?username=Abdullah-Murshid&style=flat-square&color=1F6FEB)
-
-</div>
+<p align="center">
+  <i>"First, solve the problem. Then, write the code." — John Johnson</i>
+</p>
