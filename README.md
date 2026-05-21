@@ -5,7 +5,7 @@
 <br/>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdullahmurshid" target="_blank">
+  <a href="https://www.linkedin.com/in/abdullah-mursh1d" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:abdullahmurshid931@gmail.com@email.com">
